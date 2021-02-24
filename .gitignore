@@ -1,4 +1,4 @@
-class-03/cropped_faces/
-class-03/train/
-class-03/test/
+*/cropped_faces/
+*/train/
+*/test/
 .ipynb_checkpoints/
